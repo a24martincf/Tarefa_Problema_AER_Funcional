@@ -1,6 +1,3 @@
-package tarefas_Puntuables.`2Aval`
-
-
 //      EL ASCENSOR
 //  ENUNCIADO:  https://aceptaelreto.com/problem/statement.php?id=156
 
